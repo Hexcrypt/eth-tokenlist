@@ -1,6 +1,6 @@
 {
   "name": "Ink's Token List",
-  "timestamp": "2025-01-29T00:00:00+00:00",
+  "timestamp": "2025-01-29T18:00:00+00:00",
   "tokens": [
     {
       "chainId": 57073,
@@ -9,6 +9,14 @@
       "symbol": "USDT0",
       "name": "Tether USD",
       "decimals": 6
+    },
+    {
+      "chainId": 57073,
+      "address": "0xEAAC4A3D63649a2c82433b3E2AD972Cc6bA51d13",
+      "logoURI": "https://pbs.twimg.com/profile_images/1883632589111492608/nAYVjaWY_400x400.jpg",
+      "symbol": "AK47",
+      "name": "Andru Kollor",
+      "decimals": 18
     }
   ]
 }
