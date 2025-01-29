@@ -1,0 +1,14 @@
+{
+  "name": "Ink Token List",
+  "timestamp": "2025-01-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "logoURI": "https://inkonchain.com/icons/USDT0.svg",
+      "symbol": "USDT0",
+      "name": "Tether USD",
+      "decimals": 6
+    }
+  ]
+}
