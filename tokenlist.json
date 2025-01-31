@@ -4,10 +4,58 @@
   "tokens": [
     {
       "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "logoURI": "https://assets.coingecko.com/coins/images/39810/small/weth.png",
+      "symbol": "WETH",
+      "name": "Ink Bridged WETH (Ink)",
+      "decimals": 18
+    },
+    {
+      "chainId": 57073,
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/small/kraken.jpg?1734685461",
+      "symbol": "KRAKEN",
+      "name": "Kraken",
+      "decimals": 18
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/small/ink_purple.png?1738227741",
+      "symbol": "PURPLE",
+      "name": "Purple",
+      "decimals": 18
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "logoURI": "https://assets.coingecko.com/coins/images/54002/small/1000000182.jpg?1737942213",
+      "symbol": "SHROOMY",
+      "name": "Shroomy",
+      "decimals": 18
+    },
+    {
+      "chainId": 57073,
+      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
+      "logoURI": "https://assets.coingecko.com/coins/images/53494/small/squidswap.jpg?1736504228",
+      "symbol": "SQUIDS",
+      "name": "Squidswap",
+      "decimals": 18
+    },
+    {
+      "chainId": 57073,
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "logoURI": "https://assets.coingecko.com/coins/images/53782/small/usdc.jpg?1737346127",
+      "symbol": "USDC.E",
+      "name": "Stargate Bridged USDC (Ink)",
+      "decimals": 6
+    },
+    {
+      "chainId": 57073,
       "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
       "logoURI": "https://inkonchain.com/icons/USDT0.svg",
       "symbol": "USDT0",
-      "name": "Tether USD",
+      "name": "Tether USDT0",
       "decimals": 6
     },
     {
